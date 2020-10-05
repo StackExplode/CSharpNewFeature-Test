@@ -1,0 +1,10 @@
+D:\VisualStudioProjects\NewFeatureTest\NewFeatureTest\bin\Debug\NewFeatureTest.exe.config
+D:\VisualStudioProjects\NewFeatureTest\NewFeatureTest\bin\Debug\NewFeatureTest.exe
+D:\VisualStudioProjects\NewFeatureTest\NewFeatureTest\bin\Debug\NewFeatureTest.pdb
+D:\VisualStudioProjects\NewFeatureTest\NewFeatureTest\obj\Debug\NewFeatureTest.csprojAssemblyReference.cache
+D:\VisualStudioProjects\NewFeatureTest\NewFeatureTest\obj\Debug\NewFeatureTest.Form1.resources
+D:\VisualStudioProjects\NewFeatureTest\NewFeatureTest\obj\Debug\NewFeatureTest.Properties.Resources.resources
+D:\VisualStudioProjects\NewFeatureTest\NewFeatureTest\obj\Debug\NewFeatureTest.csproj.GenerateResource.cache
+D:\VisualStudioProjects\NewFeatureTest\NewFeatureTest\obj\Debug\NewFeatureTest.csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\NewFeatureTest\NewFeatureTest\obj\Debug\NewFeatureTest.exe
+D:\VisualStudioProjects\NewFeatureTest\NewFeatureTest\obj\Debug\NewFeatureTest.pdb
